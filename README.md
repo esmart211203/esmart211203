@@ -5,7 +5,7 @@ h1 align="center">Hi 👋, I'm Trong Do</h1>
 
 - 🤝 I’m looking for help with **Dev Frontend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/esmart211203?tab=repositories](https://github.com/esmart211203?tab=repositories)
+- 👨‍💻 All of my projects are available at [**repositories**](https://github.com/esmart211203?tab=repositories)
 
 - 💬 Ask me about **Laravel, Django, Flask, React**
 
