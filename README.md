@@ -7,7 +7,7 @@
 - 🎓 Graduated in **Information Technology (2021–2024)**  
 - 💼 6 months at **Nina Co., Ltd** — building business websites and CMS systems  
 - 💼 6 months at **iStudent** — developing educational web platforms and APIs  
-- 💼 Currently working at **Exproweb** as a **Backend Developer**  
+- 💼 Currently working at **Expro Việt Nam** as a **Backend Developer**  
 - 🌱 I'm improving my skills in **System Architecture**, **API Design**, and **DevOps (Docker, CI/CD)**  
 - 💬 I mainly work with **Laravel**, **Django**, **FastAPI**, **Express.js**, and **MySQL**
 
